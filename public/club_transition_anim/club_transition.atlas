@@ -1,0 +1,76 @@
+
+club_transition.png
+size: 2048,512
+format: RGBA4444
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BackGlow
+  rotate: false
+  xy: 354, 244
+  size: 390, 259
+  orig: 390, 259
+  offset: 0, 0
+  index: -1
+Glow1
+  rotate: true
+  xy: 1450, 203
+  size: 300, 314
+  orig: 300, 314
+  offset: 0, 0
+  index: -1
+lf_beer
+  rotate: true
+  xy: 855, 22
+  size: 250, 214
+  orig: 250, 214
+  offset: 0, 0
+  index: -1
+lf_foam 1
+  rotate: false
+  xy: 1098, 278
+  size: 350, 225
+  orig: 350, 225
+  offset: 0, 0
+  index: -1
+lf_foam 2
+  rotate: true
+  xy: 1071, 72
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+lf_mug
+  rotate: false
+  xy: 2, 122
+  size: 350, 381
+  orig: 350, 381
+  offset: 0, 0
+  index: -1
+rt_beer
+  rotate: true
+  xy: 1766, 203
+  size: 300, 246
+  orig: 300, 246
+  offset: 0, 0
+  index: -1
+rt_foam1
+  rotate: false
+  xy: 746, 274
+  size: 350, 229
+  orig: 350, 229
+  offset: 0, 0
+  index: -1
+rt_foam2
+  rotate: false
+  xy: 354, 21
+  size: 300, 221
+  orig: 300, 221
+  offset: 0, 0
+  index: -1
+sparkleSttar
+  rotate: true
+  xy: 656, 2
+  size: 240, 197
+  orig: 240, 197
+  offset: 0, 0
+  index: -1

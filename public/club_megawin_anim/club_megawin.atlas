@@ -1,0 +1,83 @@
+
+club_megawin.png
+size: 2048,1024
+format: RGBA4444
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+girl_body
+  rotate: false
+  xy: 2, 2
+  size: 530, 548
+  orig: 530, 548
+  offset: 0, 0
+  index: -1
+girl_legDown
+  rotate: false
+  xy: 740, 595
+  size: 433, 358
+  orig: 433, 358
+  offset: 0, 0
+  index: -1
+girl_legUp
+  rotate: true
+  xy: 1627, 524
+  size: 429, 351
+  orig: 429, 351
+  offset: 0, 0
+  index: -1
+girl_wires
+  rotate: false
+  xy: 1175, 619
+  size: 450, 334
+  orig: 450, 334
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 1108, 141
+  size: 200, 81
+  orig: 200, 81
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: true
+  xy: 939, 141
+  size: 200, 167
+  orig: 200, 167
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 737, 132
+  size: 200, 209
+  orig: 200, 209
+  offset: 0, 0
+  index: -1
+megawin_backLight
+  rotate: true
+  xy: 1085, 343
+  size: 250, 107
+  orig: 250, 107
+  offset: 0, 0
+  index: -1
+megawin_ligths
+  rotate: false
+  xy: 2, 552
+  size: 736, 401
+  orig: 736, 401
+  offset: 0, 0
+  index: -1
+megawin_wiring
+  rotate: true
+  xy: 534, 74
+  size: 476, 201
+  orig: 476, 201
+  offset: 0, 0
+  index: -1
+sign_base
+  rotate: true
+  xy: 740, 343
+  size: 250, 343
+  orig: 250, 343
+  offset: 0, 0
+  index: -1

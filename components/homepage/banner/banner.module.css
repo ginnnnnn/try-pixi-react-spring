@@ -1,0 +1,9 @@
+.constainer {
+  width: 100%;
+  z-index: 90;
+}
+.rotate {
+  width: 300px;
+  margin: 0 auto;
+  height: 450px;
+}

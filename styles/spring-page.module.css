@@ -1,0 +1,33 @@
+.container {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  background-color: black;
+
+  color: white;
+  display: flex;
+  height: 5rem;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.menu {
+  background-color: inherit;
+  border: none;
+  margin: auto 10px;
+  height: 3rem;
+  color: white;
+}
+
+/* appearance: none;
+color: white;
+font-weight: bold;
+font-size: 2rem;
+background: transparent;
+border: none;
+z-index: 15; */

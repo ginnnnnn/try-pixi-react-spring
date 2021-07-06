@@ -1,0 +1,181 @@
+
+CashRocket_fx_anim.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rocket_BIGFireLoop1_1
+  rotate: false
+  xy: 2, 463
+  size: 332, 500
+  orig: 332, 500
+  offset: 0, 0
+  index: -1
+Rocket_BIGFireLoop1_2
+  rotate: false
+  xy: 2589, 341
+  size: 212, 320
+  orig: 212, 320
+  offset: 0, 0
+  index: -1
+Rocket_BIGFireLoop1_3
+  rotate: false
+  xy: 2318, 291
+  size: 269, 420
+  orig: 269, 420
+  offset: 0, 0
+  index: -1
+Rocket_FireLoop1_1
+  rotate: false
+  xy: 2720, 663
+  size: 348, 300
+  orig: 348, 300
+  offset: 0, 0
+  index: -1
+Rocket_FireLoop1_2
+  rotate: false
+  xy: 3070, 663
+  size: 318, 300
+  orig: 318, 300
+  offset: 0, 0
+  index: -1
+Rocket_FireLoop1_3
+  rotate: false
+  xy: 3549, 411
+  size: 235, 250
+  orig: 235, 250
+  offset: 0, 0
+  index: -1
+Rocket_FireLoop1_4
+  rotate: false
+  xy: 3390, 663
+  size: 307, 300
+  orig: 307, 300
+  offset: 0, 0
+  index: -1
+Rocket_FireLoop2_1
+  rotate: false
+  xy: 654, 713
+  size: 462, 250
+  orig: 462, 250
+  offset: 0, 0
+  index: -1
+Rocket_FireLoop2_2
+  rotate: false
+  xy: 1118, 713
+  size: 447, 250
+  orig: 447, 250
+  offset: 0, 0
+  index: -1
+Rocket_FireLoop2_4
+  rotate: false
+  xy: 1048, 511
+  size: 346, 200
+  orig: 346, 200
+  offset: 0, 0
+  index: -1
+Rocket_Mid_Explosion_1
+  rotate: false
+  xy: 1977, 713
+  size: 387, 250
+  orig: 387, 250
+  offset: 0, 0
+  index: -1
+Rocket_Mid_Explosion_2
+  rotate: false
+  xy: 1567, 713
+  size: 408, 250
+  orig: 408, 250
+  offset: 0, 0
+  index: -1
+Rocket_Start_Explosion_1
+  rotate: false
+  xy: 2366, 713
+  size: 352, 250
+  orig: 352, 250
+  offset: 0, 0
+  index: -1
+Rocket_Start_Explosion_2
+  rotate: false
+  xy: 1396, 461
+  size: 346, 250
+  orig: 346, 250
+  offset: 0, 0
+  index: -1
+Rocket_Start_Explosion_3
+  rotate: false
+  xy: 654, 511
+  size: 392, 200
+  orig: 392, 200
+  offset: 0, 0
+  index: -1
+Rocket_YellowRing1_1
+  rotate: false
+  xy: 3699, 663
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: -1
+Rocket_debris
+  rotate: false
+  xy: 2803, 320
+  size: 108, 89
+  orig: 108, 89
+  offset: 0, 0
+  index: -1
+Rocket_mainBody
+  rotate: false
+  xy: 2, 2
+  size: 316, 459
+  orig: 316, 459
+  offset: 0, 0
+  index: -1
+Rocket_mainBody_burnt
+  rotate: false
+  xy: 336, 504
+  size: 316, 459
+  orig: 316, 459
+  offset: 0, 0
+  index: -1
+rocket_infinite boost1_1
+  rotate: false
+  xy: 3786, 461
+  size: 263, 200
+  orig: 263, 200
+  offset: 0, 0
+  index: -1
+rocket_infinite boost1_2
+  rotate: false
+  xy: 1744, 461
+  size: 286, 250
+  orig: 286, 250
+  offset: 0, 0
+  index: -1
+rocket_infinite boost1_3
+  rotate: false
+  xy: 2032, 461
+  size: 284, 250
+  orig: 284, 250
+  offset: 0, 0
+  index: -1
+rocket_infinite boost1_4
+  rotate: false
+  xy: 2803, 411
+  size: 265, 250
+  orig: 265, 250
+  offset: 0, 0
+  index: -1
+rocket_infinite boost1_5
+  rotate: false
+  xy: 3070, 411
+  size: 239, 250
+  orig: 239, 250
+  offset: 0, 0
+  index: -1
+rocket_infinite boost1_6
+  rotate: false
+  xy: 3311, 411
+  size: 236, 250
+  orig: 236, 250
+  offset: 0, 0
+  index: -1

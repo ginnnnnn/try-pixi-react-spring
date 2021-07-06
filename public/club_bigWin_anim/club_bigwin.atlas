@@ -1,0 +1,76 @@
+
+club_bigwin.png
+size: 4096,512
+format: RGBA4444
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+back metal piece 1
+  rotate: true
+  xy: 2086, 185
+  size: 300, 358
+  orig: 300, 358
+  offset: 0, 0
+  index: -1
+bartender_body
+  rotate: true
+  xy: 530, 103
+  size: 382, 550
+  orig: 382, 550
+  offset: 0, 0
+  index: -1
+bartender_handDown
+  rotate: false
+  xy: 2, 2
+  size: 526, 483
+  orig: 526, 483
+  offset: 0, 0
+  index: -1
+bartender_handUp
+  rotate: false
+  xy: 1082, 145
+  size: 486, 340
+  orig: 486, 340
+  offset: 0, 0
+  index: -1
+bartender_wire
+  rotate: false
+  xy: 2804, 220
+  size: 300, 265
+  orig: 300, 265
+  offset: 0, 0
+  index: -1
+bigWin_light
+  rotate: false
+  xy: 3106, 290
+  size: 300, 195
+  orig: 300, 195
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 2446, 235
+  size: 250, 356
+  orig: 250, 356
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 3408, 356
+  size: 200, 129
+  orig: 200, 129
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 1570, 196
+  size: 514, 289
+  orig: 514, 289
+  offset: 0, 0
+  index: -1
+unlit big win wire
+  rotate: false
+  xy: 3610, 365
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
