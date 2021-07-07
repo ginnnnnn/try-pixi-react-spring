@@ -5,7 +5,6 @@ import { useEffect, useRef } from "react";
 const Animate = () => {
   const divRef = useRef(null);
   useEffect(() => {
-    console.log(divRef.current.clientWidth);
     const app = new PIXI.Application({
       width: divRef.current.clientWidth,
       height: divRef.current.clientHeight,
@@ -16,7 +15,8 @@ const Animate = () => {
 
     window.addEventListener("resize", appResize);
     app.stop();
-
+    app.renderer.plugins.interaction.autoPreventDefault = false;
+    app.renderer.view.style.touchAction = "auto";
     // load spine data
     app.loader
       .add([
@@ -131,8 +131,8 @@ const Animate = () => {
       style={{
         width: "100%",
         height: "100vh",
-        zIndex: 500,
         position: "relative",
+        zIndex: 6,
       }}
       ref={divRef}
     ></div>

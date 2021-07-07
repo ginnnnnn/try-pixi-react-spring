@@ -140,9 +140,9 @@ function SpringPage() {
         id="tsparticles"
         style={{
           width: "100%",
-          height: "180vh",
+          height: "150vh",
           position: "absolute",
-          zIndex: 300,
+          zIndex: 5,
         }}
       ></div>
       <DynamicComponent />
