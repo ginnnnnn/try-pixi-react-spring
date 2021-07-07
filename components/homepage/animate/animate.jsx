@@ -22,7 +22,7 @@ const Animate = () => {
       .add([
         "dragon/dragon.json",
         "club_bigWin_anim/club_bigwin.json",
-        "club_megaWin_anim/club_megawin.json",
+        "club_megawin_anim/club_megawin.json",
         "club_scatter_anim/club_scatter.json",
         "cash_rocket/CashRocket_fx_anim.json",
       ])
@@ -54,7 +54,7 @@ const Animate = () => {
 
       //megaWin
 
-      megaWin = createSpine(res, "club_megaWin_anim/club_megawin.json");
+      megaWin = createSpine(res, "club_megawin_anim/club_megawin.json");
       megaWin.position.set(app.screen.width / 2 - 500, app.screen.height / 2);
       megaWin.scale.set(0.3, 0.3);
       megaWin.state.setAnimation(0, "animation", true);
